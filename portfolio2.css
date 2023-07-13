@@ -1,0 +1,133 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+button{
+    background-color: black;
+    padding:4px;
+    letter-spacing: 2px;
+
+}
+header {
+    text-align:left;
+    color: black;
+    background-color:#333;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+}
+h1{ 
+    color: black;
+    font-size: 50px;
+    padding:10px;
+}
+h2, h3 {
+    font-size: 25px;
+
+}
+
+#home {
+    background-color: #f1f1f1;
+    text-align: center;
+    
+    
+    
+}   
+
+
+#about {
+    color: white;
+    background-image: url("https://media.istockphoto.com/id/1286354786/vector/dark-prism-textured-abstract-background.jpg?s=612x612&w=0&k=20&c=lJiYScAyV7Iqn5FKdxMYCuntLO0ljQkR_oEftweNjmE=");
+    background-position: center;
+    height:350pt;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#projects {
+    background-image: url("https://img.freepik.com/free-vector/seamless-gold-rhombus-grid-pattern-black-background_53876-97589.jpg");
+    color: white;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+#contact {
+    background-color:whitesmoke;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+#home {
+    background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 270pt;
+}
+a{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
